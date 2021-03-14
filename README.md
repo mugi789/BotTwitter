@@ -1,5 +1,5 @@
 # Deskripsi singkat
-Ini adalah bot otomatis untuk ngelike ataupun ngeretweet postingan di twitter, tujuan pembuatan bot ini adalah supaya gk cape kalo mau bom like/retweet wkwk
+Ini adalah bot otomatis untuk ngelike ataupun ngeretweet postingan di twitter, tujuan pembuatan bot ini adalah supaya gk cape kalo mau bom like/retweet hahaha
 
 ## Hal yg perlu diinstall sebelum digunakan
 ```
