@@ -7,8 +7,10 @@
 
 ### Cara Penggunaan
 ```
-1. Edit file credentials.py , ganti kata 'xxxxxxxxxx' dengan api key
-2. Buka terminal -> lalu run "python3 menu.py"
+1. git clone https://github.com/mugi789/BotTwitter
+2. cd BotTwitter
+3. Edit file credentials.py , ganti kata 'xxxxxxxxxx' dengan api key
+3. lalu run "python3 menu.py"
 ```
 
 #### Screenshot / Penampakan
