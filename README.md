@@ -1,4 +1,4 @@
-## Hal yg perlu diinstall sebelum digunakan
+## Hal yg perlu diinstall sebelum menggunakan bot ini
 ```
 1. Membuat aplikasi terlebih dahulu untuk mendapatkan API Key di http://developer.twitter.com/
 2. sudo apt install python3
